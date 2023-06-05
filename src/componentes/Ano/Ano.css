@@ -1,0 +1,27 @@
+.ano {
+  text-align: center;
+  padding: 32px;
+  background-blend-mode: multiply;
+  position: relative;
+}
+
+.ano h3 {
+  font-size: 32px;
+  font-family: 'Prata';
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.ano .livros {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+.input-cor {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
